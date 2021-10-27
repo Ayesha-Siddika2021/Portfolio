@@ -1,0 +1,19 @@
+.navbar-brand img{
+    width: 110px;
+}
+.carousel-item img{
+    height: 500px;
+}
+.about-heading{
+   width: 200px;
+    
+}
+.slider-part{
+    margin-top: 150px;
+}
+.card{
+    background: rgba(131, 144, 145, 0.123);
+}
+.project img{
+    height: 440px;
+}
